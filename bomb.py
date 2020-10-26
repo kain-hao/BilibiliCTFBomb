@@ -22,7 +22,7 @@ headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36
 		rpdid=|(um|J~k)JJ0J'uY|k|RR))R;\
 		sid=ae015bv;\
 		PVID=;",
-    //Cookie里每个都删过了不要想用我的跑了（
+    #Cookie里每个都删过了不要想用我的跑了（
 	"Referer":"https://security.bilibili.com/sec1024/",
 	"Sec-Fetch-Mode": "cors",
 	"Sec-Fetch-Site": "same-origin",
